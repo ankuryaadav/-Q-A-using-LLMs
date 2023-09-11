@@ -1,0 +1,9 @@
+pytest
+pre-commit
+requests
+pyzotero
+python-dotenv
+pymupdf
+build
+types-requests
+numpy
